@@ -11,7 +11,7 @@ function App() {
           <Route path='/MovieDescription' element={<LinkedInProfile></LinkedInProfile>}></Route>
         </Routes>
       </BrowserRouter>
-      <LinkedInProfile></LinkedInProfile>
+      
     </div>
   );
 }
