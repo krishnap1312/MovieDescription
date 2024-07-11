@@ -83,11 +83,6 @@ This project is licensed under the MIT License. See the `LICENSE` file for more 
 
 Thank you for using the TV Show Search App! We hope you enjoy exploring your favorite TV shows and movies. If you have any questions or need further assistance, please feel free to reach out.
 
-Happy searching!
-
-![TV Show Search App Screenshot](screenshot.png)  <!-- Add a screenshot of your app here -->
-
----
 
 ### Author
 
