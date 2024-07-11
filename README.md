@@ -28,11 +28,11 @@ Make sure you have the following installed on your local development environment
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/tv-show-search-app.git
+   https://github.com/krishnap1312/MovieDescription.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd tv-show-search-app
+   cd movie_description
    ```
 3. Install the dependencies:
    ```bash
