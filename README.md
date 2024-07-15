@@ -93,4 +93,3 @@ Thank you for using the TV Show Search App! We hope you enjoy exploring your fav
 
 ---
 
-Built with ❤️ by [Your Name].
